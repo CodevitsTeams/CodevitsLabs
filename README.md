@@ -1,14 +1,14 @@
 <div align="center">
   <img src="CodevitsPlus.png" width="300" height="300" title="Hover text">
 
-# PT Codevits Indonesia (Persero) Tbk ***powered by***
+# PT Codevits Indonesia (Persero) Tbk ***powered by*** Bob's
 ### JPMorgan Chase & Co. (AS), DANANTARA INDONESIA Sovereign Wealth Fund, <br> Amazon Inc. (AS), SoftBank Group Corp. (Japan), Huawei Technologies Co., Ltd. (China), and <br> Global Holding Company The Bob's of International Group (BIG Ltd.) of Singapore 🚀
 ***"Innovating the Future, Empowering the Nation"***
 
 [![Industry](https://img.shields.io/badge/Industry-Software_Development-blue.svg)](https://codevits.id)
 [![Location](https://img.shields.io/badge/Headquarters-Yogyakarta,_Indonesia-green.svg)](https://maps.google.com)
 [![Established](https://img.shields.io/badge/Founded-Dec_11,_2025-orange.svg)]()
-[![Founding](https://img.shields.io/badge/Founding-P2MW_Kemendikti_Sainstek_RI-red.svg)]()
+[![Founding](https://img.shields.io/badge/Founding-P2MW_Kemendikti_Saintek_RI-red.svg)]()
 </div>
 
 ---
